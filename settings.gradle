@@ -1,0 +1,2 @@
+include ':native_copy', ':native_copy_strdup', ':native_encode', ':native_file_leak', ':native_socket_leak', ':native_global_id', ':native_handle', ':native_direct_buffer', ':native_array_region', ':native_array_elements'
+rootProject.name = "NativeFlowBenchExtended"

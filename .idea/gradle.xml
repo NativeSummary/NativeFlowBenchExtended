@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="PLATFORM" />
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="$PROJECT_DIR$/../../../../../../../../Gradle/gradle-7.4.2" />
+        <option name="gradleJvm" value="13" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/native_array_elements" />
+            <option value="$PROJECT_DIR$/native_array_region" />
+            <option value="$PROJECT_DIR$/native_copy" />
+            <option value="$PROJECT_DIR$/native_copy_strdup" />
+            <option value="$PROJECT_DIR$/native_direct_buffer" />
+            <option value="$PROJECT_DIR$/native_encode" />
+            <option value="$PROJECT_DIR$/native_file_leak" />
+            <option value="$PROJECT_DIR$/native_global_id" />
+            <option value="$PROJECT_DIR$/native_handle" />
+            <option value="$PROJECT_DIR$/native_socket_leak" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+        <option name="useQualifiedModuleNames" value="true" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
